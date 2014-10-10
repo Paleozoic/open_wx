@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="open_wx"
+  id="myeclipse.1412844288153"
+  context-root="/open_wx"
+  j2ee-spec="6.0"
+  archive="open_wx.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
