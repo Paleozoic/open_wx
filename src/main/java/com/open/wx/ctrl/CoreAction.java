@@ -44,6 +44,6 @@ public class CoreAction {
 			// 响应消息,微信服务器收到响应的消息后，经过处理直接显示在开发者的公众号上
 			HttpXmlUtil.writeOutStr(response, respMessage, true,"utf-8");
 		}
-		return "ERROR";
+		return null;
 	} 			
 }
